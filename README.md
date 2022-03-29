@@ -1,14 +1,14 @@
-1. alx-zero_day readme
+# alx-zero_day readme
 
-2. The purpose of this exercise is to understand git concepts
+1. The purpose of this exercise is to understand git concepts
 
-3. $ git clone <repo>
+2. $ git clone <repo>
   
-4. $ touch test
+3. $ touch test
   
-5. $ git add test
+4. $ git add test
   
-6. $ git commit -m "Initial commit"
+5. $ git commit -m "Initial commit"
   
-7. $ git push origin main
+6. $ git push origin main
   
